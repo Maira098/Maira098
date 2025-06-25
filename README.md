@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maira Malik
-- 👀 I’m interested in coding and graphic design. 
-- 🌱 I’m currently learning many languages and webpage development.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning many languages and cloud computing.
 - 💞️ I'll provide my best for my work.
 - 📫 How to reach me through email at workwithmaira098@gmail.com
 - 😄 Pronouns: coding,webpage
